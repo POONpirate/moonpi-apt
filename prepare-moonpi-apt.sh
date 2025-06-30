@@ -26,6 +26,9 @@ rm $DEST_DIR/prepare-moonpi-apt.sh
 
 dos2unix $DEST_DIR/conf/distributions
 
-dpkg-scanpackages $DEST_DIR/pool /dev/null | gzip -9c > $DEST_DIR/dists/stable/main/binary-armhf/Packages.gz
+(
+  cd "$DEST_DIR"
+  dpkg-scanpackages pool /dev/null | gzip -9c > dists/stable/main/binary-armhf/Packages.gz
+)
 
 cp $DEST_DIR/dists/stable/main/binary-armhf/Packages.gz /mnt/c/Users/kelly/Onedrive/Documents/moonpi-apt/dists/stable/main/binary-armhf/Packages.gz
