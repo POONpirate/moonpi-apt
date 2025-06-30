@@ -1,0 +1,6 @@
+Origin: moonpi
+Label: moonpi
+Codename: stable
+Architectures: armhf arm64
+Components: main
+Description: MoonPi APT repository
