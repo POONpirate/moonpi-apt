@@ -1,6 +1,6 @@
 Origin: moonpi
 Label: moonpi
 Codename: stable
-Architectures: armhf arm64
+Architectures: armhf
 Components: main
 Description: MoonPi APT repository
