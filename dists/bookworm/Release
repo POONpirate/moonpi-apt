@@ -1,0 +1,20 @@
+Origin: POONpirate
+Label: moonpi
+Suite: stable
+Codename: bookworm
+Date: Mon, 04 May 2026 19:42:48 UTC
+Architectures: armhf
+Components: main
+Description: MoonPi APT repository for Raspberry Pi
+MD5Sum:
+ 69b35284d8a85eecfab7fd4087f56ff4 724 main/binary-armhf/Packages
+ dc0bb1769caa382bb756f1256c14095a 497 main/binary-armhf/Packages.gz
+ 3534471377a4851e377ab7f7a808a916 137 main/binary-armhf/Release
+SHA1:
+ 284e0c8c215b52e6dae921af2903c4830e5da133 724 main/binary-armhf/Packages
+ 72a5adcce155385733d4a1b1cdaba31e7dedf7ce 497 main/binary-armhf/Packages.gz
+ 85d5e4a9e4f5f3bad704f08baaf8e3079b3c3593 137 main/binary-armhf/Release
+SHA256:
+ e545c64e8177e5fa243ff2e4a40ba498222808cc95eb3f2658aa127549c2eaf6 724 main/binary-armhf/Packages
+ 91f4e7589d49e712a3edc183d519046748ab965e2311eb9e18ec006dbf167be1 497 main/binary-armhf/Packages.gz
+ 72e215539f3e289e3fe05417aaa63d8b17b55b47a3e7c9e705daea93e48b9218 137 main/binary-armhf/Release

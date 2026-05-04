@@ -1,0 +1,20 @@
+Package: moonpi
+Version: 1.0
+Architecture: armhf
+Maintainer: POONpirate <kellyzekilla@hotmail.com>
+Installed-Size: 46
+Pre-Depends: moonlight-embedded
+Depends: psmisc, procps, kbd
+Homepage: https://github.com/POONpirate/moonpi
+Priority: optional
+Section: utils
+Filename: pool/main/m/moonpi/moonpi_1.0_armhf.deb
+Size: 7988
+SHA256: e0adfe06ccff7df275974486e8120c3c8d7fde392fd7d8e95419c69fb1cbcbed
+SHA1: ce65d83aad9f64ca13f008709b099da412dd67e6
+MD5sum: ae4bc939f0383c59969f0bed114813fe
+Description: lightweight Moonlight launcher for Raspberry Pi
+ A streamlined launcher for Moonlight Embedded, designed to simplify
+ game streaming setup on Raspberry Pi. Includes autologin, GPU tweaks,
+ and controller support out of the box.
+

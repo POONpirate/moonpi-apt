@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: POONpirate
+Label: moonpi
+Architecture: armhf
+Description: MoonPi APT repository for Raspberry Pi
